@@ -1,0 +1,5 @@
+{
+    "extension_name": "",
+    "project_name": "lookatme.contrib.{{cookiecutter.extension_name}}",
+    "description": "A cool extension"
+}
